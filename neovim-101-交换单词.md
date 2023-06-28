@@ -1,4 +1,4 @@
-# Neovim-101-交换单词
+# neovim-practise-101-交换单词
 
 ## 交换前后两个字符
 
@@ -56,6 +56,6 @@ def func(arg2, arg3, arg1):
 
 ---
 
-## Answer(welcome your PR: https://github.com/wsgggws/neovim-101)
+## Answer
 
 TODO
