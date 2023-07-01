@@ -10,6 +10,8 @@
 - 8. 你在插入模式如何移动到行首行尾, 第一个非空白字符
 - 9. snippets
 - 10. markdown table
+- 11. 插入空格空行
+- 12. buffer 管理
 
 ## TODOS 文件管理
 
