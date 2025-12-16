@@ -6,13 +6,13 @@
 hl, ftFT, webWEB, 0^$
 ```
 
-2. 垂直移动
+1. 垂直移动
 
 ```
 jk,  ggG
 ```
 
-3. 搜索移动
+1. 搜索移动
 
 ```
 ftFT, /?nN, *, #, %
@@ -20,7 +20,7 @@ ftFT, /?nN, *, #, %
 <leader><leader>, <leader>sw, <leader>sg
 ```
 
-4. 寄存器移动
+1. 寄存器移动
 
 ```
 '
